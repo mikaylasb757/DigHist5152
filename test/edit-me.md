@@ -17,15 +17,19 @@ A robot must protect its own existence as long as such protection does not confl
 ___
 
 👉 What is the Fourth Law of Robotics? (Feel free to make up something silly.) Write it on the next line.
+
 A robot must reproduce, as long as it doesn't interfere with laws 1 or 2.
 
 👉 Create a heading that says "Fourth Law of Robotics."
+
 ## Fourth Law of Robotics
 
 👉 Paste your entry below and bold the first and last words of your entry.
+
 **A** robot must reproduce, as long as it doesn't interfere with laws 1 or **2**.
 
 👉 Paste your entry below and italicize the second word of your entry.
+
 A *Irobot* must reproduce, as long as it doesn't interfere with laws 1 or 2.
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
