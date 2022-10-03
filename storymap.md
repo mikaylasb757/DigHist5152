@@ -7,6 +7,12 @@ Headline: Americas Pioneer in Animal Welfare - Morris Animal Refuge
 In 1874, Morris animal shelter was founded by Elizabeth Morris - making it the oldest in the country!
 <br>
 <br>
+![Screen Shot 2022-10-03 at 6 58 41 PM](https://user-images.githubusercontent.com/111812333/193700539-6098951e-6e08-4417-a4a7-c176fad4aedd.png)
+<br>
+<br>
+Source: http://www.philageohistory.org/
+<br>
+<br>
 Source: https://www.morrisanimalrefuge.org/news/morriss-place-in-the-history-of-animal-shelters
 <br>
 <br>
